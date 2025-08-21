@@ -28,11 +28,11 @@ export default function Contact() {
     >
       <div className="relative z-10 container mx-auto px-6 text-center pt-0 mb-10 flex flex-col items-center justify-center">
         <h1 className="font-[playFair] text-3xl md:text-4xl lg:text-6xl font-bold text-purple-deep mb-5">
-          Let's Make Magic Together
+          Let&apos;s Make Magic Together
         </h1>
         <div className="md:w-[55%]">
           <p className="text-lg md:text-xl text-gray-500 leading-relaxed mb-6 font-[montserrat] font-[500]">
-            Ready to start planning your dream event? Get in touch and let's
+            Ready to start planning your dream event? Get in touch and let&apos;s
             discuss how we can make your vision come to life.
           </p>
         </div>

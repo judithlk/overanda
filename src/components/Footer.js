@@ -57,7 +57,7 @@ export default function Footer() {
               </div>
 
               <h3 className="font-[montserrat] font-[500] text-gray-accent">
-                overandaevents@gmai.com
+                overandaeventsgmail.com
               </h3>
             </div>
             <div className="flex space-x-1 items-center">
