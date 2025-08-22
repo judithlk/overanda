@@ -37,7 +37,7 @@ export default function Footer() {
             </Link>
           </div>
         </div>
-        <div className="px-2 space-y-2 grid grid-cols-2 gap-3">
+        <div className="px-2 space-y-2 grid grid-cols-1 md:grid-cols-2 gap-3">
           <div className="px-2">
             <h3 className="font-[playfair] font-semibold text-gold-accent text-lg md:text-2xl">
               Book your appointment today!
@@ -66,7 +66,7 @@ export default function Footer() {
               </h3>
             </div>
           </div>
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col justify-center items-center mt-5 md:mt-0">
             <Link href={"#hero"} className="block">
               <FaAnglesUp className="size-10 animate-bounce fill-purple-mid" />
             </Link>
